@@ -1,0 +1,11 @@
+"050" == cadastrar usuário
+"100" == logar usuário
+"150" == atualizar
+"200" == convidar jogador
+"250" == negar convite
+"300" == aceitar convite
+"700" == jogador já está online
+"450" == jogador digitou nome errado
+"850" == convidado saiu
+"900" == jogador saiu no meio da partida
+"1" e/ou "0" e/ou "ok" == prossiga com execução
